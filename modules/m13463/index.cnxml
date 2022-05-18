@@ -1,0 +1,81 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>A Musical Dynamics Activity</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m13463</md:content-id>
+  <md:title>A Musical Dynamics Activity</md:title>
+  <md:abstract>A lesson plan for an activity that introduces children to the musical concept of dynamics.</md:abstract>
+  <md:uuid>dd3450ec-d446-421d-ac71-fbc207aafec8</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m11649/latest/" strength="3">Dynamics</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+          <para id="p1a">Practicing dynamics on a particular instrument requires control and technique, but simply learning about dynamics is an invitation to make noise, so this is a fun concept to introduce to young children. Practicing dynamics away from one's instrument can also be useful for young players who find it difficult to remember to play with dynamics and good tone quality because they are still mastering rhythms and fingerings.
+          </para>
+               <list id="element-56" list-type="bulleted"><title>Goals and Standards</title><item>
+<emphasis>Grade Level</emphasis> - Intended for grades 3-8; adaptable for younger or older as appropriate.
+</item>
+<item>
+<emphasis>Student Prerequisites</emphasis> - Students should be able to sing, well and comfortably, the songs chosen.
+</item>
+<item>
+<emphasis>Teacher Expertise</emphasis> - Teacher expertise in music is not necessary to present this activity. The teacher should be familiar with the terms and concepts regarding <link document="m11649">dynamics</link> and comfortable leading the singing.
+</item>
+<item>
+<emphasis>Time Requirements</emphasis> - If you want to give everyone a chance to "conduct", have a variety of several songs ready to sing, and plan to use an entire class period. Otherwise, the discussion and activity can be done in about twenty minutes. Once the concepts are introduced, you may use it as a short (5-minute) warm-up to other music activities or break from desk work.
+</item>
+<item>
+<emphasis>Goals</emphasis> - The student will learn standard terms for musical dynamics, explore using dynamics, and practice singing musically and with control at a variety of different dynamic levels. </item>
+<item>
+<emphasis>Objectives</emphasis> - The student will learn the terms used to indicate musical dynamics and will sing familiar songs with a group, at a variety of dynamic levels, responding first to verbal instructions from the teacher and then to hand signals from a "conductor". Following the activity, the student will be able to define common dynamics terms in simple English (e.g. <foreign>forte</foreign> is "loud") and respond to verbal or hand signals with appropriate dynamics. 
+</item>
+<item>
+<emphasis>Music Standards Addressed</emphasis> - <link url="http://musiced.nafme.org/resources/national-standards-for-music-education/">National Standards for Music Education</link> standards 
+1 (singing, alone and with others, a varied repertoire of music) and 6 (listening to, analyzing, and describing music).
+</item>
+	<item>
+<emphasis>Evaluation</emphasis> - Assess students on achievement of many different dynamics while still singing with good tone, and on ability to follow conductor's dynamic directions. Following the activity, you may test the students, verbally or on paper, on the meaning of dynamics terms.</item>
+<item><emphasis>Follow-up</emphasis> - Throughout the rest of the year, continue to ask for appropriate dynamics, using the correct terms, whenever the students sing or play an instrument.</item>
+<item>
+<emphasis>Adaptations</emphasis> - For students who have trouble singing, you may adapt this activity to have them recite, speak, or make noise on <link document="m11889">simple percussion instruments</link> at different dynamic levels.
+</item>
+<item>
+<emphasis>Extensions</emphasis> - For more advanced music students, have the students memorize a short piece on an instrument and practice responding quickly to instructions or signals to play at different dynamic levels. Teach the students notation for dynamics and ask them to play or sing, individually, a simple piece with no written dynamics, adding dynamics to make the performance more musical, interesting and dramatic. On the written part, have them add the (properly notated) dynamics that they are using.
+</item></list><list id="l11a"><title>Materials and Preparation</title>
+                 <item>
+Choose a song or songs that the students already know, or teach them one that is easy for them. Any song will do, although one with some dramatics that suggest dynamics may be more fun. Choose a song that is reasonably short, or else do the verses at different dynamic levels.
+                 </item>
+                 <item>
+Familiarize yourself with any <link document="m11649">dynamics</link> terms that you are planning on introducing to the students. You may use this <link resource="pf.pdf">PDF file</link> as a handout if you would like to give the students a copy of the terms. (If you can't get the PDF file, you may use the figure <link target-id="fig1">below</link>.)
+                 </item>
+               </list>
+
+               <list id="l11b" list-type="enumerated"><title>Procedure</title><item>
+Tell your students that music can be loud or quiet or in between. Introduce any of the terms you wish your students to learn, or simply continue to talk about loud, quiet, and medium.
+                 </item>
+                 <item>
+Sing the song together quietly (<foreign>mezzo piano</foreign>). Sing it again (or the next verse) even more quietly (<foreign>piano</foreign>). Encourage them to continue to project voiced (not whispered) notes with clear, sustained <link document="m10943">pitch</link> as they get softer. Repeat until they are practically whispering; how many different levels of quiet can they get while still sounding good?
+                 </item>
+                 <item>
+Repeat the previous step with <foreign>mezzo forte, forte</foreign>, and so on. Encourage them to sing with sustained, controlled notes as they get louder. How many different levels of loudness can they get before they are simply shouting?
+                 </item>
+                 <item>
+The next step will need a "conductor". You can conduct, but if there is time, let the students take turns conducting. Choose a conductor and demonstrate some typical conducting signals: hand held higher with palm up means louder, hand held lower with palm held down means quieter, hand moving up or down means gradually louder or quieter. <emphasis>The conductor in this activity does not have to conduct the beats!</emphasis>
+                 </item>
+                 <item>
+Repeat the song again, or choose a different song if you're bored. This time, have the conductor vary the level of loudness during the verse. Try suddenly loud and suddenly quiet as well as gradually getting louder and quieter. For younger students, let them have fun with this and be silly. With older students, ask them to experiment with using the dynamics to make the song prettier or more exciting, dramatic, or interesting.
+                 </item>
+               </list>
+
+      <figure id="fig1"><title>Common Dynamic Levels</title><media id="id1166950916936" alt=""><image src="../../media/dynamics.png" mime-type="image/png"/></media>
+      </figure>
+
+  </content>
+  
+</document>

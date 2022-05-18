@@ -1,0 +1,125 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Independent Harmonies</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9d217402-98da-474e-a566-9e2a6acf2a1e</md:uuid>
+</metadata>
+
+  <content>
+
+   <section id="s0">
+        <title>Introduction</title>
+    
+        <para id="p0a">
+A harmony is independent of the <link document="m11647">melody</link> if it is often doing something different from the melody. Even if it is not independent enough to be counterpoint, such harmony adds more depth and interest to the music than <link document="m11844">drones</link>, <link document="m11878">parallel harmonies</link>, or simple <link document="m11875">chordal accompaniments</link>. So this type of harmony is extremely popular for hymns and other choral arrangements, and it is also very common in instrumental music and in instrumental accompaniments.
+        </para>
+
+        <list id="l0a">
+            <title>What makes a harmony or accompaniment part independent?</title>
+             <item>
+If it often has different rhythms than the melody, it is independent.
+             </item>
+             <item>
+Even if it has the same rhythms as the melody, it is independent if it is often moving in a different direction from the melody; for example, the harmony part is going down when the melody is going up.
+             </item>
+             <item>
+If a harmony is truly independent, then even when it is moving in the same direction as the melody, it is usually moving by a different <link document="m10867">interval</link>. For example, if the melody is going up by <link document="m10867" target-id="s21">perfect fourth</link>, it might go up by a single <link document="m10866">half step</link>.
+             </item>
+        </list>
+
+        <para id="p0b">
+Independent harmonies are not quite <link document="m11634">counterpoint</link>. In order to be considered true counterpoint or <link document="m11645" target-id="s13">polyphony</link>, the different parts must be not only independent, they must also sound like equally important melodies. Is there always a very clear line between independent harmony and counterpoint? No! Remember that all of the rules and definitions in music theory ("counterpoint", "harmony", "minor keys") were all made up to describe what good composers were already doing; they do not define what a composer is allowed to do. If the composer - or performer -  likes, an independent line can easily drift back and forth between being a background, harmony part, and being so important that it becomes a <link document="m11634" target-id="s2">countermelody</link>.
+        </para>
+        <para id="p0c">
+But in much classical and popular music, there is one line that is clearly the melody. The harmonies or accompaniment parts are all clearly "background", but they still follow most of the important rules of counterpoint. <emphasis>The most important rule of counterpoint is that two lines should not move in parallel.</emphasis> In other words, when the melody goes down one step, the harmony should do something other than going down one step; it can go down by a different <link document="m10867">interval</link>, or stay the same, but it is best if it goes up. When the melody goes up a perfect fourth, the harmony should do anything other than go up a perfect fourth. Independent harmonies also follow this rule.
+        </para>
+
+        <para id="p0d">
+For much <link document="m11645" target-id="s12">homophonic music</link>, following this basic rule about contrasting <link document="m10867">intervals</link> is enough. In particular, there is a great deal of choral music (most traditional <link document="m11421">Western</link> hymns, for example) in which all the parts have different intervals but use the same rhythms, so that everybody is singing the same word at the same time. This type of texture is sometimes called <term>homorhythmic</term>.
+        </para>
+        <para id="p0e">
+Other harmony or accompaniment parts are even more independent, and have a different rhythm from the melody also. Good examples of this are the bass line in most pop songs or the instrumental parts accompanying an opera aria. In these types of music, as well as in much jazz and symphonic music, there is one line that is clearly the melody, but the other parts aren't simply following along with the melody. They are "doing their own thing".
+        </para>
+
+     </section>
+     <section id="s1">
+           <title>Activities</title>
+
+                 <list id="l14a">
+                           <title>Materials and Preparation</title>
+                           <item>
+You will need an audiotape or CD player.
+                           </item>
+                           <item>
+Choose some music with independent harmonies for your students to listen to. (There are some suggestions <link target-id="l14c">below</link>.) If you have the class time for it, and you have not already covered <link document="m11645" target-id="s1">monody</link>, <link document="m11844">drones</link>, <link document="m11875">chordal harmonies</link>, and <link document="m11878">parallel harmonies</link>, you may want to include some examples of these for contrast. Suggested recordings for these other textures can be found in those lessons.)
+                           </item>
+                           <item>
+Choose a song with independent harmonies for them to learn. Since this is fairly challenging, keep it simple unless you have older, musically trained students. If your students are up to the challenge, this type of harmony is not difficult to find; most SATB choral arrangements feature independent harmonies. If you would like a very simple example for young or musically inexperienced students, or if you are not experienced enough to tackle full-fledged harmonies, you may use "Train is a-Comin'", below. In this version, much of the song is in unison, with simple (but independent) harmonies in only a few places in the music. If you need to, listen to the <link resource="traincominmel.mid">melody</link>, <link resource="traincominhigh.mid">higher harmony</link>, and <link resource="traincominlow.mid">lower harmony</link>, and <link resource="traincominall.mid">all the parts together</link>.
+                           </item>
+                           <item>
+If you would like, arrange for an accompanist. An accompanist is not necessary for this style of singing (not even for a simple piece like "Train is a-Comin'"), but it may make things much easier or more comfortable for the singers.
+                           </item>
+                           <item>
+Have enough copies of the words and music for the students.
+                           </item>
+                        </list>
+
+                        <figure id="fig1a">
+                              <title>Train is a-Comin'</title>
+                              <media id="idp103552" alt=""><image src="../../media/traincominall.png" mime-type="image/png"/></media>
+                              <caption>
+The notes in black are the melody.  Red notes are an extensive high harmony; give this to a few students who are ready for a challenge. Blue notes are a very small low harmony part, which can be ignored if you like; if you have a few more students who can sing a few notes that are not in the melody, give this part to them. Everyone should sing the melody whenever they do not have a harmony part.
+                              </caption>
+                        </figure>
+
+                        <list id="l14b" list-type="enumerated">
+                           <title>Procedure</title>
+                           <item>
+Using the introduction <link target-id="p0a">above</link> as a guide, talk with the class about independent harmonies. Introduce any definitions you want them to learn, and contrast this musical texture with any other textures you have studied or will study, including <link document="m11645" target-id="s1">monody</link>, <link document="m11844">drones</link>, <link document="m11878">parallel harmonies</link>, <link document="m11875">chordal harmonies</link>, and <link document="m11634">counterpoint</link>.
+                           </item>
+                           <item>
+Play some of your examples of music with independent harmonies or accompaniment. Ask the students to hum along with the melody the first time. Play the example again. Can they hum along with the bass line or another harmony or accompaniment part the second time? How different are the parts? 
+                           </item>
+                           <item>
+If you have them, play some of your examples of monody, drones, parallel harmony, chordal accompaniment, and counterpoint, for contrast. If you have also studied these other textures, identify them as they are listening to them.
+                           </item>
+                           <item>
+If you have enough examples, play some more, asking the students to identify the pieces with independent harmonies. Can they identify the other textures as well?
+                           </item>
+                           <item>
+Divide the students into higher and lower voices and assign appropriate parts for the song they will sing.
+                           </item>
+                           <item>
+Teach each group its part (this may be done over the course of several sessions) and have them practice it alone before attempting to combine the groups.
+                           </item>
+                       </list>
+
+            <para id="p14c">
+The suggestions for recordings to look for are pretty vague because there is so much music in this category. It is very easy to find, so you should not spend a lot of time looking for specific recordings. Just make sure there is one clear and obvious melody in your selections, but that the accompaniment to it is interesting and independent of the melody. The choral selections will be more likely to be <link target-id="p0d"> homorhythmic</link>, so that the words can be easily understood, whereas instrumental accompaniments will tend to be even more independent.
+            </para>
+
+                      <list id="l14c">
+                          <title>Suggested Listening List</title>
+                          <item>
+Almost any chorus from a Gilbert and Sullivan opera.
+                          </item>
+                          <item>
+Recordings of choirs singing traditional (nineteenth-century) hymns.
+                          </item>
+                          <item>
+If you have trouble hearing hymn harmonies, try listening to the chorales of Bach's <cite><cite-title>Christmas Oratorio (Weinachts Oratorium)</cite-title></cite>. The chorales are not contrapuntal - the melody is clearly in the soprano part, and the different parts sing the same words at the same time - but it is unusually easy to hear that the parts are in fact quite different from each other.
+                          </item>
+                          <item>
+Pop music with a solo singer, a strong bass line, and interesting instrumental accompaniment.
+                          </item>
+                          <item>
+Most opera arias and many opera choruses.
+                          </item>
+                          <item>
+This is also one of the most common <link document="m11645">textures</link> in orchestral music, particularly in classical-era and Romantic-era symphonies (Mozart, Haydn, Beethoven, Schubert, etc.) But be aware that in symphonic music, texture can change often and quickly.
+                          </item>
+                       </list>
+
+       </section>
+
+  </content>
+  
+</document>

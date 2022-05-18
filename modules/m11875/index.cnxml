@@ -1,0 +1,110 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Simple Chordal Harmony</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>692e5045-069d-4777-bf4c-a967786dc4a6</md:uuid>
+</metadata>
+
+  <content>
+
+  <section id="s0">
+     <title>Introduction</title>
+
+    <para id="p0a">
+One simple way to provide harmony for a melody is to add <link document="m11654" target-id="l0b">chords</link>. The notes of each chord may be played all at once (<term>block chords</term>), or they may be played one at a time (<term>broken</term> or <term>arpeggiated</term> chords). For example, a person playing a guitar can strum the chord (this would be a "block" chord) or use a picking style to play "broken" chords. As long as the accompaniment is just chords, and not a different melody, it still belongs in this category of simple chordal accompaniment. Another very common way to play simple chordal accompaniments is to alternate playing the bass note of the chord and the rest of the chord. This is the "oom-pah-oom-pah" (bass-chord-bass-chord) or "oom-pah-pah-oom-pah-pah" (bass-chord-chord-bass-chord-chord) that you often hear pianos or bands playing.
+    </para>
+    <para id="p0b">
+This kind of harmony is unusual in classical music and also in professionally produced popular musics, but it is very common in <link document="m11421">Western</link> music wherever people are making music for their own enjoyment: folk musics, sing-alongs, informal dances, children's music, some styles of sacred music, and amateurs playing pop music for fun. One of the features of Western music, in fact, is instruments that easily play this kind of accompaniment. The many keyboard instruments, guitar, banjo, lute, accordions, and dulcimers are some of the more common, but there are plenty of uncommon ones, too. (Can you or your students name any?)
+    </para>
+
+  </section>
+  <section id="s1">
+     <title>Activities</title>
+    
+     <list id="l1a">
+        <title>Materials and Preparation</title>
+                           <item>
+Find an audio player and some recordings of music that is melody with only chordal accompaniment. You will find some suggestion at the end of the lesson.
+                           </item>
+                           <item>
+Have the tapes ready to play at the right spot, or know CD track numbers.
+                           </item>
+                           <item>
+Choose a song for the class to sing with chordal accompaniment. You (or someone) can accompany them with simple or arpeggiated chords on keyboard or guitar, or you can teach them to sing the chords. If they are going to sing the accompaniment, choose a song with few chord changes, unless you and they are up to a challenge. (If you are looking for a challenge, they might enjoy learning "The Lion Sleeps Tonight"; the "wi-mo-wep" part is just rhythmical chords.) If you want to try something pretty simple, you may use "She'll Be Comin' Round the Mountain". You can play (or have someone else play) the chords on an instrument, or you can have some of the students sing the chords with "oohs".
+                           </item>
+                           <item>
+If your students would find it useful, have plenty of copies for them of the song you have chosen.
+                           </item>
+                           <item>
+If someone is going to play an accompaniment, you will need your accompanist and instrument. If the students are going to sing the song you have chosen, you may need a pitchpipe or keyboard to give them their beginning notes.
+                           </item>
+                       </list>
+
+                       <figure id="fig12a" orient="vertical">
+                          <subfigure id="fig12amel">
+                          <title>She'll be Comin' Round the Mountain</title>
+                          <media id="idp7230224" alt=""><image src="../../media/cominround.png" mime-type="image/png"/></media>
+                          <caption>The students can be accompanied by a piano, guitar, banjo, accordion, autoharp, or dulcimer, playing the chords (in red) in whatever manner suits the instrument and player. Or you may have some students sing the melody, while some sing the chords. If each "woo" chord begins with a slight dip, the effect will be a little like a train whistle. </caption>
+                          </subfigure>
+                          <subfigure id="fig12awhoos">
+                            <media id="idp7320464" alt=""><image src="../../media/cominroundwhoos.png" mime-type="image/png"/></media>
+                          </subfigure>
+                          <caption>
+If you need to hear any of the parts, here are the <link resource="cominroundmel.mid">melody alone</link>, the <link resource="cominround1.MID">high whoos</link>, the <link resource="cominround2.MID">middle whoos</link>, the <link resource="cominround3.MID">low whoos</link>, all the whoos <link resource="cominroundchord.MID">together</link>, and all the whoos <link resource="cominroundall.MID">with the melody</link>. All parts start on the same note, so that you do not need a pitchpipe or musical instrument to give all the parts their beginning notes. They do not necessarily even have to start on a D; just start them all out on the same (reasonably low) note.
+                          </caption>
+                       </figure>
+
+                       <list id="l12b" list-type="enumerated">
+                           <title>Procedure</title>
+                           <item>
+Explain that one of the easiest ways to add harmony to a melody is to simply play (or sing) the chords along with it. 
+                           </item>
+                           <item>
+Play your chosen recorded examples for the class. Explain that the notes of the chords may be played one at a time; as long as the accompaniment is just broken up chords and not another melody, it is still just a simple chordal harmony.
+                           </item>
+                           <item>
+If you have them, hand out copies of the song they are going to learn.
+                           </item>
+                           <item>
+Teach the entire class the melody.
+                           </item>
+                           <item>
+If you are or have an accompanist, have them sing the melody again, first with the accompanist playing block chords, then again with a simple chord-based accompaniment.
+                           </item>
+                           <item>
+If they are going to sing the accompaniment, assign each student a part (low, middle, or high note of the chord), and teach them the part. Once they can sing just the chords together, leave half of them on the chords and let the other half sing the melody. Then let everyone switch parts.
+                           </item>
+                       </list>
+
+  </section>
+  <section id="s2">
+     <title>Listening Suggestions</title>
+
+     <para id="p2a">
+As mentioned above, most professionally produced recordings, whether popular, jazz, or classical, feature more complex accompaniments. Here are some places to look for this simple musical <link document="m11645">texture</link>.
+     </para>
+
+     <list id="l2a">
+         <item>
+Two classical works that do feature this texture are "The March of the Toreadors" from Bizet's <cite><cite-title>Carmen</cite-title></cite> and the familiar "graduation march" tune from Elgar's <cite><cite-title>Pomp and Circumstance #1</cite-title></cite>. (If you do look up a recording of the Elgar piece, it is not the beginning of the piece that you want to listen to; the familiar tune comes later on).
+         </item>
+         <item>
+Consider arranging for a live performance for your class. Ask anyone who plays  guitar or piano competently for a demonstration of simple chordal accompaniments. They may be willing to provide the melody also, on their instrument or vocally, or they may be able to provide a soloist or may ask the class to help by singing the melody.
+         </item>
+         <item>
+Recordings that are meant for children, the many "Wee Sing" tapes, for example, often feature simple chordal accompaniments.
+         </item>
+         <item>
+Many folk artists and blues artists who perform solo (Joan Baez or Odetta, for example) have made recordings in this style. 
+         </item>
+         <item>
+Some solo piano music (Chopin's Prelude No. 4 in E minor or Nocturne No. 2 in E flat, for example) and solo classical guitar (the "Granada" movement of Albeniz' <cite><cite-title>Suite Espanola</cite-title></cite>, for example).
+         </item>
+         <item>
+Some classic ragtime, like Joplin's "Maple Leaf Rag" feature a simple "oom-pah" acompaniment.
+         </item>
+     </list>
+
+  </section>
+
+  </content>
+  
+</document>
