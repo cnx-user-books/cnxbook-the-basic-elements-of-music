@@ -1,0 +1,385 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col24865</md:content-id>
+  <md:title>Derived copy of The Basic Elements of Music</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  <md:uuid>fbad8e47-be75-4aa7-90b7-2aafcec6a2ba</md:uuid>
+<md:slug>derived-copy-of-the-basic-elements-of-music</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Time Elements</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m11646"/>
+        
+      
+    
+    
+      <col:module document="m14258"/>
+        
+      
+    
+    
+      <col:module document="m12405">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m11646/latest/">Rhythm</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m10881/latest/">Time Signature</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11648/latest/">Tempo</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m10945/latest/">Duration: Note Lengths</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11887/latest/">Duration: Rest Lengths</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11888/latest/">Dots, Ties, and Borrowed Divisions</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11807/latest/">Fractions, Multiples, Beats, and Measures</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m13616"/>
+        
+      
+    
+    
+      <col:module document="m11648">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m10945/latest/">Duration</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m10956/latest/">Time Signature</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11031/latest/">Conducting</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11646/latest/">Rhythm</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m14180"/>
+        
+      
+    
+    
+      <col:module document="m11649"/>
+        
+      
+    
+    
+      <col:module document="m13463"/>
+        
+      
+    
+    
+      <col:module document="m13462"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Pitch Elements</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>Timbre</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m11059"/>
+        
+      
+    
+    
+      <col:module document="m14259"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Melody</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m11647"/>
+        
+      
+    
+    
+      <col:module document="m11833">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m11832/latest/">The Shape of a Melody</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.rice.edu/content/m11647/latest/">Melody Introduction and Terms</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m11832">
+        <col:featured-links>
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.rice.edu/content/m11647/latest/">Melody Introduction and Terms</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m11879">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m11832/latest/">Melodic Contour</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.rice.edu/content/m11833/latest/">Melody</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m11880">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m11647/latest/">Melody</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11646/latest/">Rhythm</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m10872/latest/">Form</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Harmony</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m11654"/>
+        
+      
+    
+    
+      <col:module document="m11844">
+        <col:featured-links>
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.rice.edu/content/m11654/latest/">Harmony</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m11875">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m11645/latest/">Texture</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11643/latest/">Harmonic Analysis</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m10877/latest/">Triads</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m10890/latest/">Naming Triads</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11647/latest/">Melody</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11874/latest/">Independent Harmony</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.rice.edu/content/m11654/latest/">Harmony</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m11878">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m11844/latest/">Drones</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11875/latest/">Chordal Harmony</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11874/latest/">Independent Harmony</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11833/latest/">Melody</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11832/latest/">The Shape of a Melody</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.rice.edu/content/m11654/latest/">Harmony</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m11874">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m11646/latest/">Rhythm</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.rice.edu/content/m11654/latest/">Harmony</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m10943/latest/">Pitch</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11645/latest/">Texture</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m10867/latest/">Interval</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Combining Time and Pitch</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m11645"/>
+        
+      
+    
+    
+      <col:module document="m14260"/>
+        
+      
+    
+    
+      <col:module document="m11634"/>
+        
+      
+    
+    
+      <col:module document="m34474"/>
+        
+      
+    
+    
+      <col:module document="m14261"/>
+        
+      
+    
+    
+      <col:module document="m13617"/>
+        
+      
+    
+    
+      <col:module document="m10842">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.rice.edu/content/m11629/latest/">Musical Form (for older students and adults)</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11434/latest/">Time's Effect on the Material (for older students and adults)</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11607/latest/">Overall Destiny (for older students and adults)</cnxml:link>
+              <cnxml:link url="http://cnx.rice.edu/content/m11466/latest/">Sound Reasoning (for older students and adults)</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
